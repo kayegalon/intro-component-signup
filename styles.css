@@ -170,4 +170,8 @@ input:focus {
 	#form {
 		margin-top: 3rem;
 	}
+	
+	.free-trial {
+		padding: .5rem 2rem;
+	}
 }
