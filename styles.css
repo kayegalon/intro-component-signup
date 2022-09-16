@@ -139,7 +139,7 @@ input:focus {
 
 
 /*** MEDIA QUERY ***/
-@media screen and (max-width: 480px) and (min-width: 320px) {
+@media only screen and (max-width: 480px) and (min-width: 320px) {
 	body {
 		display: flex;
 		flex-direction: column;
@@ -150,7 +150,7 @@ input:focus {
 	}
 
 	#title, #form {
-		width: 18rem;
+		width: 13rem;
 		margin-left: auto;
 		margin-right: auto;
 	}
