@@ -1,9 +1,3 @@
-/* to-do
--apply all designs from design images
--add media query for mobile
--review all codes, make it readable and consider accessibility
-*/
-
 const firstName = document.getElementById("firstname");
 const lastName = document.getElementById("lastname");
 const email = document.getElementById("email");
